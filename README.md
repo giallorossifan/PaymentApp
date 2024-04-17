@@ -11,7 +11,7 @@ Things you may want to cover:
 
 * Configuration
 
-* Database creation
+* Database creation: Running on sqlite3 but should have postgresql. sqlite3 is being used because its a small app, Which I will configure PostgreSQL for larger applications later.
 
 * Database initialization
 
