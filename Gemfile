@@ -72,4 +72,6 @@ group :test do
 end
 
 # get a stripe api key to use stripe payment
-gem 'stripe'
+gem "stripe", "~> 9.2"
+
+gem "devise", "~> 4.9"
