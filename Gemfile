@@ -70,3 +70,6 @@ group :test do
   gem "selenium-webdriver"
 
 end
+
+# get a stripe api key to use stripe payment
+gem 'stripe'
